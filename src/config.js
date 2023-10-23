@@ -3,7 +3,7 @@ module.exports = {
 	// Janus info
 	janus: {
 		// WebSocket address
-		address: 'ws://127.0.0.1:8188',
+		address: 'ws://janus:8188',
 		// Janus API secret, if required
 		//~ apiSecret: 'janusrocks'
 	},
